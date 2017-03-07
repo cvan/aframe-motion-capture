@@ -27,8 +27,8 @@ playback.
 
 ```html
 <a-scene avatar-replayer="src: recording.json">
-  <a-entity id="controller1" hand-controls"></a-entity>
-  <a-entity id="controller2" hand-controls"></a-entity>
+  <a-entity id="controller1" hand-controls></a-entity>
+  <a-entity id="controller2" hand-controls></a-entity>
 </a-scene>
 ```
 
